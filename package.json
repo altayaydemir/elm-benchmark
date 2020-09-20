@@ -1,7 +1,7 @@
 {
   "name": "elm-benchmark",
   "version": "1.0.0",
-  "description": "Benchmark Elm code",
+  "description": "Fork of elm-explorations/benchmark",
   "engines": {
     "node": ">=6"
   },
